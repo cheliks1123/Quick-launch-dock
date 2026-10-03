@@ -1,4 +1,4 @@
-![Quick Launch Dock demo](https://raw.githubusercontent.com/cheliks1123/Quick-launch-dock/main/quick-launch-dock.gif)
+![Quick Launch Dock demo](https://raw.githubusercontent.com/cheliks1123/Quick-launch-dock/main/quck-lauch-dock.gif)
 
 *Drag a shortcut onto the dock and it stays there. Click an icon to launch it.*
 
